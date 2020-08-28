@@ -1,0 +1,8 @@
+SpellingBee start
+SpellingBee start new game
+SpellingBee new game
+SpellingBee start {Difficulty} game
+SpellingBee {CommandOrDifficulty}
+
+RandomWord get new word
+RandomSlang get new slang

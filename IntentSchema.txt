@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "intent": "SpellingBee",
+      "slots": [
+        {
+          "name": "Difficulty",
+          "type": "LIST_OF_DIFFICULTY"
+        },
+        {
+          "name": "CommandOrDifficulty",
+          "type": "LIST_OF_COMMAND"
+        }
+      ]
+    },
+    
+    {
+      "intent": "RandomWord"
+    },
+    {
+      "intent": "RandomSlang"
+    }
+  ]
+}
